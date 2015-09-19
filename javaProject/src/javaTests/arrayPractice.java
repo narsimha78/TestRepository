@@ -4,6 +4,7 @@ public class arrayPractice {
 
 	public static void main(String[] args) {
 
+		//Intialize an Array with Integers data
 		int a[]={2,4,8,7,3,5};
 		int i=0;
 		
