@@ -25,7 +25,9 @@ public class arrayPractice {
 		}
 		
 		//System.out.println(i);
+		
 		System.out.println("index was displayed successfully");
+		//End of the example
 	}
 
 }
